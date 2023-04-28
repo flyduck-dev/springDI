@@ -1,2 +1,4 @@
-package org.example;public class MemberNotFoundException {
+package org.example;
+
+public class MemberNotFoundException extends RuntimeException{
 }
